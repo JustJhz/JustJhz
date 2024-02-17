@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm JustJhz</h1>
 <h3 align="center">A Mechatronics Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/da/73/7c/da737c9ddc03497c3686850ae70d058f.gif?fbclid=IwAR2de11LVHMBmghBT-NqOCUGN8LI1xPEWg3bmw08s_pERJUXf43bOqGAbzU">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/26/54/982654a2a82801db85693ba07e2687c3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justjhz&label=Profile%20views&color=0e75b6&style=flat" alt="justjhz" /> </p>
 
