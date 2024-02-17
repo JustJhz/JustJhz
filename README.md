@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/58/8c/03/588c03a9b68d7be385ecb0d35f622e69.gif)]
+[![MasterHead](https://i.pinimg.com/originals/54/fb/c6/54fbc648ae374aa4b6d69d0c218885f6.gif)]
 
 <h1 align="center">Hi 👋, I'm JustJhz</h1>
 <h3 align="center">A Mechatronics Engineering Student</h3>
